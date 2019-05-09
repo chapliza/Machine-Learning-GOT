@@ -10,3 +10,5 @@ The code includes:
 * Model development
 
 # No spoilers, just Data Science
+
+![alt text](https://github.com/chapliza/Machine-Learning-GOT/blob/master/got.jpg)
