@@ -18,7 +18,7 @@ from sklearn.model_selection import cross_val_score # k-folds cross validation
 
 from sklearn.linear_model import LogisticRegression
 # Importing dataset
-file = '/Users/nataliya/Desktop/ML/GOT_character_predictions.xlsx'
+file = 'XXXXX path XXXXXX / ML/GOT_character_predictions.xlsx'
 got = pd.read_excel(file)
 
 
