@@ -11,8 +11,8 @@ The code includes:
 
 # No spoilers, just Data Science
 
-Quick access to the report is [here](https://github.com/chapliza/Machine-Learning-GOT/blob/master/GOT.pdf)
-
+[Report](https://github.com/chapliza/Machine-Learning-GOT/blob/master/GOT.pdf)
+[Code](https://github.com/chapliza/Machine-Learning-GOT/blob/master/GOT.py)
 
 ![alt text](https://github.com/chapliza/Machine-Learning-GOT/blob/master/got.jpg)
 
