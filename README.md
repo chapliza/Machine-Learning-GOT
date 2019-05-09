@@ -12,6 +12,7 @@ The code includes:
 # No spoilers, just Data Science
 
 [Report](https://github.com/chapliza/Machine-Learning-GOT/blob/master/GOT.pdf)
+
 [Code](https://github.com/chapliza/Machine-Learning-GOT/blob/master/GOT.py)
 
 ![alt text](https://github.com/chapliza/Machine-Learning-GOT/blob/master/got.jpg)
